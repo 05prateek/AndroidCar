@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidCar</string>
+    <string name="_0_9">0–9</string>
+    <string name="_192_168_4_1">192.168.4.1:80</string>
+    <string name="_0_0_0_0">0.0.0.0:0000</string>
+    <string name="ip_address">IP Address:Port:</string>
+    <string name="prateek_rawat">pratlabs \n</string>
+    <string name="created_by">CREATED BY:</string>
+    <string name="info">info</string>
+    <string name="link"><a href="https://github.com/05prateek/androidcar">https://github.com/05prateek/androidcar</a></string>
+    <string name="linkgmail"><a href="rawat.prateek05@gmail.com\">rawat.prateek05@gmail.com\</a></string>
+</resources>
